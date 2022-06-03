@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.Header
+{
+    text-align: center;
+    font-family: sans-serif;
+}
+.table-box
+{
+    margin: 50px auto;
+}
+.table-row
+{
+    display: table;
+    width: 80%;
+    margin: 10px auto;
+    font-family: sans-serif;
+    background: transparent;
+    padding: 12px 0;
+    color: white;
+    font-size: 15px;
+    box-shadow: 0 1px 4px 0 rgba(0,0,50,0.3);
+
+}
+.table-cell
+{
+    display: table-cell;
+    width: 30%;
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: larger;
+    padding: 4px 0;
+    border-right: 1px solid #d6d4d4;
+    vertical-align: middle;
+}
+.table-head
+{
+    background: #8665f7;
+    box-shadow: none;
+    cursor: pointer;
+    color: #fff;
+    font-weight: 600;
+    font-size: 50px;
+    text-decoration: cornsilk;
+    
+}
+

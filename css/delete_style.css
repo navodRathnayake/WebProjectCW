@@ -1,0 +1,33 @@
+*{
+    background-position: center;
+    margin: 10px 40px;
+    padding:2px;
+    
+    
+
+}
+
+
+.window 
+{
+    
+    width: 60%;
+    height: 50%;
+    background-position: top;
+    margin-left:200px;
+    padding:2px;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: lavender;
+    position:relative;
+    font-size: large;
+    
+}
+
+.head
+ {
+
+    color: white;
+    text-align: center;
+    background-color: #353b48;
+
+ }
